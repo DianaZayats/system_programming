@@ -3,6 +3,46 @@
   "WorkspaceRootPath": "C:\\Users\\Lenovo Legion\\OneDrive\\Desktop\\\u0421\u0438\u0441\u0442\u0435\u043C\u043D\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0443\u0432\u0430\u043D\u043D\u044F\\Lab1\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{D4E5F6A7-B8C9-7D8E-1F2A-3B4C5D6E7F8A}|Lab1.Task4\\Lab1.Task4.csproj|c:\\users\\lenovo legion\\onedrive\\desktop\\\u0441\u0438\u0441\u0442\u0435\u043C\u043D\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0443\u0432\u0430\u043D\u043D\u044F\\lab1\\lab1.task4\\workerthread.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4E5F6A7-B8C9-7D8E-1F2A-3B4C5D6E7F8A}|Lab1.Task4\\Lab1.Task4.csproj|solutionrelative:lab1.task4\\workerthread.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3D4E5F6-A7B8-6C7D-0E1F-2A3B4C5D6E7F}|Lab1.Task3\\Lab1.Task3.csproj|c:\\users\\lenovo legion\\onedrive\\desktop\\\u0441\u0438\u0441\u0442\u0435\u043C\u043D\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0443\u0432\u0430\u043D\u043D\u044F\\lab1\\lab1.task3\\workerthread.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3D4E5F6-A7B8-6C7D-0E1F-2A3B4C5D6E7F}|Lab1.Task3\\Lab1.Task3.csproj|solutionrelative:lab1.task3\\workerthread.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3D4E5F6-A7B8-6C7D-0E1F-2A3B4C5D6E7F}|Lab1.Task3\\Lab1.Task3.csproj|c:\\users\\lenovo legion\\onedrive\\desktop\\\u0441\u0438\u0441\u0442\u0435\u043C\u043D\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0443\u0432\u0430\u043D\u043D\u044F\\lab1\\lab1.task3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3D4E5F6-A7B8-6C7D-0E1F-2A3B4C5D6E7F}|Lab1.Task3\\Lab1.Task3.csproj|solutionrelative:lab1.task3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2C3D4E5-F6A7-5B6C-9D0E-1F2A3B4C5D6E}|Lab1.Task2\\Lab1.Task2.csproj|c:\\users\\lenovo legion\\onedrive\\desktop\\\u0441\u0438\u0441\u0442\u0435\u043C\u043D\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0443\u0432\u0430\u043D\u043D\u044F\\lab1\\lab1.task2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2C3D4E5-F6A7-5B6C-9D0E-1F2A3B4C5D6E}|Lab1.Task2\\Lab1.Task2.csproj|solutionrelative:lab1.task2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2C3D4E5-F6A7-5B6C-9D0E-1F2A3B4C5D6E}|Lab1.Task2\\Lab1.Task2.csproj|c:\\users\\lenovo legion\\onedrive\\desktop\\\u0441\u0438\u0441\u0442\u0435\u043C\u043D\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0443\u0432\u0430\u043D\u043D\u044F\\lab1\\lab1.task2\\counterthread.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2C3D4E5-F6A7-5B6C-9D0E-1F2A3B4C5D6E}|Lab1.Task2\\Lab1.Task2.csproj|solutionrelative:lab1.task2\\counterthread.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2C3D4E5-F6A7-5B6C-9D0E-1F2A3B4C5D6E}|Lab1.Task2\\Lab1.Task2.csproj|c:\\users\\lenovo legion\\onedrive\\desktop\\\u0441\u0438\u0441\u0442\u0435\u043C\u043D\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0443\u0432\u0430\u043D\u043D\u044F\\lab1\\lab1.task2\\backgroundthread.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2C3D4E5-F6A7-5B6C-9D0E-1F2A3B4C5D6E}|Lab1.Task2\\Lab1.Task2.csproj|solutionrelative:lab1.task2\\backgroundthread.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1B2C3D4-E5F6-4A5B-8C9D-0E1F2A3B4C5D}|Lab1.Task1\\Lab1.Task1.csproj|c:\\users\\lenovo legion\\onedrive\\desktop\\\u0441\u0438\u0441\u0442\u0435\u043C\u043D\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0443\u0432\u0430\u043D\u043D\u044F\\lab1\\lab1.task1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1B2C3D4-E5F6-4A5B-8C9D-0E1F2A3B4C5D}|Lab1.Task1\\Lab1.Task1.csproj|solutionrelative:lab1.task1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1B2C3D4-E5F6-4A5B-8C9D-0E1F2A3B4C5D}|Lab1.Task1\\Lab1.Task1.csproj|c:\\users\\lenovo legion\\onedrive\\desktop\\\u0441\u0438\u0441\u0442\u0435\u043C\u043D\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0443\u0432\u0430\u043D\u043D\u044F\\lab1\\lab1.task1\\letterthread.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1B2C3D4-E5F6-4A5B-8C9D-0E1F2A3B4C5D}|Lab1.Task1\\Lab1.Task1.csproj|solutionrelative:lab1.task1\\letterthread.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1B2C3D4-E5F6-4A5B-8C9D-0E1F2A3B4C5D}|Lab1.Task1\\Lab1.Task1.csproj|c:\\users\\lenovo legion\\onedrive\\desktop\\\u0441\u0438\u0441\u0442\u0435\u043C\u043D\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0443\u0432\u0430\u043D\u043D\u044F\\lab1\\lab1.task1\\numthread.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1B2C3D4-E5F6-4A5B-8C9D-0E1F2A3B4C5D}|Lab1.Task1\\Lab1.Task1.csproj|solutionrelative:lab1.task1\\numthread.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4E5F6A7-B8C9-7D8E-1F2A-3B4C5D6E7F8A}|Lab1.Task4\\Lab1.Task4.csproj|c:\\users\\lenovo legion\\onedrive\\desktop\\\u0441\u0438\u0441\u0442\u0435\u043C\u043D\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0443\u0432\u0430\u043D\u043D\u044F\\lab1\\lab1.task4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4E5F6A7-B8C9-7D8E-1F2A-3B4C5D6E7F8A}|Lab1.Task4\\Lab1.Task4.csproj|solutionrelative:lab1.task4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lenovo Legion\\OneDrive\\Desktop\\\u0421\u0438\u0441\u0442\u0435\u043C\u043D\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0443\u0432\u0430\u043D\u043D\u044F\\Lab1\\Lab1\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Lab1\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -14,7 +54,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 15,
           "Children": [
             {
               "$type": "Bookmark",
@@ -45,6 +85,136 @@
               "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
             },
             {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WorkerThread.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo Legion\\OneDrive\\Desktop\\\u0421\u0438\u0441\u0442\u0435\u043C\u043D\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0443\u0432\u0430\u043D\u043D\u044F\\Lab1\\Lab1.Task3\\WorkerThread.cs",
+              "RelativeDocumentMoniker": "Lab1.Task3\\WorkerThread.cs",
+              "ToolTip": "C:\\Users\\Lenovo Legion\\OneDrive\\Desktop\\\u0421\u0438\u0441\u0442\u0435\u043C\u043D\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0443\u0432\u0430\u043D\u043D\u044F\\Lab1\\Lab1.Task3\\WorkerThread.cs",
+              "RelativeToolTip": "Lab1.Task3\\WorkerThread.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T16:42:16.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo Legion\\OneDrive\\Desktop\\\u0421\u0438\u0441\u0442\u0435\u043C\u043D\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0443\u0432\u0430\u043D\u043D\u044F\\Lab1\\Lab1.Task3\\Program.cs",
+              "RelativeDocumentMoniker": "Lab1.Task3\\Program.cs",
+              "ToolTip": "C:\\Users\\Lenovo Legion\\OneDrive\\Desktop\\\u0421\u0438\u0441\u0442\u0435\u043C\u043D\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0443\u0432\u0430\u043D\u043D\u044F\\Lab1\\Lab1.Task3\\Program.cs",
+              "RelativeToolTip": "Lab1.Task3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T16:42:08.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo Legion\\OneDrive\\Desktop\\\u0421\u0438\u0441\u0442\u0435\u043C\u043D\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0443\u0432\u0430\u043D\u043D\u044F\\Lab1\\Lab1.Task2\\Program.cs",
+              "RelativeDocumentMoniker": "Lab1.Task2\\Program.cs",
+              "ToolTip": "C:\\Users\\Lenovo Legion\\OneDrive\\Desktop\\\u0421\u0438\u0441\u0442\u0435\u043C\u043D\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0443\u0432\u0430\u043D\u043D\u044F\\Lab1\\Lab1.Task2\\Program.cs",
+              "RelativeToolTip": "Lab1.Task2\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T16:42:03.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CounterThread.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo Legion\\OneDrive\\Desktop\\\u0421\u0438\u0441\u0442\u0435\u043C\u043D\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0443\u0432\u0430\u043D\u043D\u044F\\Lab1\\Lab1.Task2\\CounterThread.cs",
+              "RelativeDocumentMoniker": "Lab1.Task2\\CounterThread.cs",
+              "ToolTip": "C:\\Users\\Lenovo Legion\\OneDrive\\Desktop\\\u0421\u0438\u0441\u0442\u0435\u043C\u043D\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0443\u0432\u0430\u043D\u043D\u044F\\Lab1\\Lab1.Task2\\CounterThread.cs",
+              "RelativeToolTip": "Lab1.Task2\\CounterThread.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T16:41:58.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BackgroundThread.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo Legion\\OneDrive\\Desktop\\\u0421\u0438\u0441\u0442\u0435\u043C\u043D\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0443\u0432\u0430\u043D\u043D\u044F\\Lab1\\Lab1.Task2\\BackgroundThread.cs",
+              "RelativeDocumentMoniker": "Lab1.Task2\\BackgroundThread.cs",
+              "ToolTip": "C:\\Users\\Lenovo Legion\\OneDrive\\Desktop\\\u0421\u0438\u0441\u0442\u0435\u043C\u043D\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0443\u0432\u0430\u043D\u043D\u044F\\Lab1\\Lab1.Task2\\BackgroundThread.cs",
+              "RelativeToolTip": "Lab1.Task2\\BackgroundThread.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T16:41:53.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "NumThread.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo Legion\\OneDrive\\Desktop\\\u0421\u0438\u0441\u0442\u0435\u043C\u043D\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0443\u0432\u0430\u043D\u043D\u044F\\Lab1\\Lab1.Task1\\NumThread.cs",
+              "RelativeDocumentMoniker": "Lab1.Task1\\NumThread.cs",
+              "ToolTip": "C:\\Users\\Lenovo Legion\\OneDrive\\Desktop\\\u0421\u0438\u0441\u0442\u0435\u043C\u043D\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0443\u0432\u0430\u043D\u043D\u044F\\Lab1\\Lab1.Task1\\NumThread.cs",
+              "RelativeToolTip": "Lab1.Task1\\NumThread.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T16:41:14.557Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LetterThread.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo Legion\\OneDrive\\Desktop\\\u0421\u0438\u0441\u0442\u0435\u043C\u043D\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0443\u0432\u0430\u043D\u043D\u044F\\Lab1\\Lab1.Task1\\LetterThread.cs",
+              "RelativeDocumentMoniker": "Lab1.Task1\\LetterThread.cs",
+              "ToolTip": "C:\\Users\\Lenovo Legion\\OneDrive\\Desktop\\\u0421\u0438\u0441\u0442\u0435\u043C\u043D\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0443\u0432\u0430\u043D\u043D\u044F\\Lab1\\Lab1.Task1\\LetterThread.cs",
+              "RelativeToolTip": "Lab1.Task1\\LetterThread.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T16:41:10.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo Legion\\OneDrive\\Desktop\\\u0421\u0438\u0441\u0442\u0435\u043C\u043D\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0443\u0432\u0430\u043D\u043D\u044F\\Lab1\\Lab1.Task1\\Program.cs",
+              "RelativeDocumentMoniker": "Lab1.Task1\\Program.cs",
+              "ToolTip": "C:\\Users\\Lenovo Legion\\OneDrive\\Desktop\\\u0421\u0438\u0441\u0442\u0435\u043C\u043D\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0443\u0432\u0430\u043D\u043D\u044F\\Lab1\\Lab1.Task1\\Program.cs",
+              "RelativeToolTip": "Lab1.Task1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T16:29:28.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WorkerThread.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo Legion\\OneDrive\\Desktop\\\u0421\u0438\u0441\u0442\u0435\u043C\u043D\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0443\u0432\u0430\u043D\u043D\u044F\\Lab1\\Lab1.Task4\\WorkerThread.cs",
+              "RelativeDocumentMoniker": "Lab1.Task4\\WorkerThread.cs",
+              "ToolTip": "C:\\Users\\Lenovo Legion\\OneDrive\\Desktop\\\u0421\u0438\u0441\u0442\u0435\u043C\u043D\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0443\u0432\u0430\u043D\u043D\u044F\\Lab1\\Lab1.Task4\\WorkerThread.cs",
+              "RelativeToolTip": "Lab1.Task4\\WorkerThread.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T16:29:24.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo Legion\\OneDrive\\Desktop\\\u0421\u0438\u0441\u0442\u0435\u043C\u043D\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0443\u0432\u0430\u043D\u043D\u044F\\Lab1\\Lab1.Task4\\Program.cs",
+              "RelativeDocumentMoniker": "Lab1.Task4\\Program.cs",
+              "ToolTip": "C:\\Users\\Lenovo Legion\\OneDrive\\Desktop\\\u0421\u0438\u0441\u0442\u0435\u043C\u043D\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0443\u0432\u0430\u043D\u043D\u044F\\Lab1\\Lab1.Task4\\Program.cs",
+              "RelativeToolTip": "Lab1.Task4\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T16:29:23.052Z",
+              "EditorCaption": ""
+            },
+            {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
             },
@@ -54,13 +224,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 10,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo Legion\\OneDrive\\Desktop\\\u0421\u0438\u0441\u0442\u0435\u043C\u043D\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0443\u0432\u0430\u043D\u043D\u044F\\Lab1\\Lab1\\Program.cs",
               "RelativeDocumentMoniker": "Lab1\\Program.cs",
               "ToolTip": "C:\\Users\\Lenovo Legion\\OneDrive\\Desktop\\\u0421\u0438\u0441\u0442\u0435\u043C\u043D\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0443\u0432\u0430\u043D\u043D\u044F\\Lab1\\Lab1\\Program.cs",
               "RelativeToolTip": "Lab1\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-26T16:13:24.242Z",
               "EditorCaption": ""
