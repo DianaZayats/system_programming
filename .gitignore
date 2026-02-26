@@ -1,0 +1,40 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+[Bb]in/
+[Oo]bj/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+
+# .NET
+*.exe
+*.pdb
+*.dll
+*.cache
+*.vsidx
+*.vssidx
+*.userprefs
+
+# NuGet
+packages/
+*.nupkg
+.nuget/
+
+# Visual Studio cache
+*.VC.db
+*.VC.VC.opendb
+slnx.sqlite
