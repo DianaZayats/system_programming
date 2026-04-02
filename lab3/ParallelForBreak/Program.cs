@@ -24,16 +24,14 @@ namespace ParallelForBreak
                 // Імітуємо обчислювальне навантаження для кожного елемента.
                 data[i] = Math.Exp(x) / Math.Pow(x, Math.PI);
 
-                // Якщо значення потрапляє в окіл цілі — ініціюємо дострокову зупинку.
+                // Якщо значення потрапляє
                 if (Math.Abs(x - TargetValue) <= Tolerance)
                 {
-                    // Фіксуємо лише перший знайдений індекс у потокобезпечний спосіб.
                     if (Interlocked.CompareExchange(ref foundIndex, i, -1) == -1)
                     {
                         foundValue = x;
                     }
 
-                    // Stop() зупиняє запуск нових ітерацій якнайшвидше.
                     state.Stop();
                 }
             });

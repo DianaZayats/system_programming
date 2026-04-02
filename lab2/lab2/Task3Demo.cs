@@ -23,13 +23,12 @@ namespace lab2
             // Основна задача обчислює суму і повертає int-результат.
             Task<int> sumTask = new Task<int>(() => CalculateSum(n));
             // Продовження (лямбда) виконується після sumTask і друкує результат.
-            // previousTask — це посилання на завершену попередню задачу.
             Task continuationTask = sumTask.ContinueWith(previousTask =>
             {
                 Console.WriteLine("Result: " + previousTask.Result);
             });
 
-            // Запускаємо головну задачу; continuation стартує автоматично після неї.
+            //continuation стартує автоматично після цієї задачі
             sumTask.Start();
 
             // Очікуємо і обчислення, і continuation.
@@ -39,7 +38,6 @@ namespace lab2
         private static int CalculateSum(int n)
         {
             // Явне обчислення суми циклом від 1 до N.
-            // Такий підхід прозоріший для навчальної демонстрації.
             int sum = 0;
             for (int i = 1; i <= n; i++)
             {

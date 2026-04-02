@@ -11,7 +11,6 @@ namespace lab2
             Console.WriteLine("--- Task 1 ---");
 
             // Створюємо дві окремі задачі через конструктор Task.
-            // Тут НЕ використовуємо Task.Run, щоб виконати вимогу лабораторної.
             Task task1 = new Task(PrintNumbers);
             Task task2 = new Task(PrintLetters);
 
@@ -20,7 +19,6 @@ namespace lab2
             task2.Start();
 
             // Очікуємо завершення обох задач.
-            // Без WaitAll метод міг би завершитися раніше за виконання задач.
             Task.WaitAll(task1, task2);
             Console.WriteLine("Both tasks have completed.");
         }

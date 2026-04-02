@@ -15,8 +15,7 @@ namespace lab2
             Task task2 = new Task(CountToFive);
             Task task3 = new Task(CountToFive);
 
-            // Показуємо системно згенеровані Id кожної створеної задачі.
-            // Ці значення присвоюються рантаймом і можуть відрізнятися між запусками.
+            // Показуємо Id кожної створеної задачі.
             Console.WriteLine("Task 1 Id = " + task1.Id);
             Console.WriteLine("Task 2 Id = " + task2.Id);
             Console.WriteLine("Task 3 Id = " + task3.Id);
@@ -33,7 +32,6 @@ namespace lab2
         private static void CountToFive()
         {
             // Усередині задачі показуємо Task.CurrentId та поточний крок.
-            // Це дозволяє бачити, яка саме задача виконує конкретну ітерацію.
             for (int step = 1; step <= 5; step++)
             {
                 Console.WriteLine("Running task CurrentId = " + Task.CurrentId + ", step = " + step);

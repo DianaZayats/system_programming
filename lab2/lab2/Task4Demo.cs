@@ -38,7 +38,6 @@ namespace lab2
 
         private static void CalculateFactorial(int number)
         {
-            // Для факторіала використовуємо long, щоб уникнути дуже раннього переповнення int.
             long result = 1;
             for (int i = 1; i <= number; i++)
             {
@@ -50,7 +49,6 @@ namespace lab2
 
         private static void CalculateSum(int n)
         {
-            // Обчислюємо суму від 1 до N звичайним циклом.
             int sum = 0;
             for (int i = 1; i <= n; i++)
             {
@@ -62,8 +60,7 @@ namespace lab2
 
         private static void PrintMessages()
         {
-            // Допоміжний метод, що імітує окрему роботу з паузою.
-            // Дає змогу візуально побачити одночасне виконання з іншими методами.
+            // імітує окрему роботу з паузою.
             for (int i = 0; i < 5; i++)
             {
                 Console.WriteLine("Message method is running...");

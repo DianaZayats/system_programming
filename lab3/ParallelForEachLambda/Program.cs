@@ -17,7 +17,7 @@ namespace ParallelForEachLambda
             // Окрема лямбда-функція з формулою перетворення елемента.
             Func<double, double> operation = x => Math.Exp(Math.PI * x) / Math.Pow(x, Math.PI);
 
-            // Запускаємо паралельну обробку масиву з переданою формулою.
+            // Запускаємо паралельну обробку масиву з переданою формулою
             runParallel(data, operation);
 
             Console.WriteLine("Parallel.ForEach with lambda loop body:");

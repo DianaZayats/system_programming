@@ -40,7 +40,6 @@ namespace lab3
             // Створюємо початкові дані для int-експериментів.
             int[] source = BuildIntArray(size);
 
-            // Від простих до складніших обчислень, щоб оцінити вплив "ваги" формули.
             MeasureAndPrint("int", size, "x = x / 10", source, x => x / 10);
             MeasureAndPrint("int", size, "x = x / pi", source, x => (int)(x / Pi));
             MeasureAndPrint("int", size, "x = e^x / x^pi", source, x => SafeInt(Math.Exp(x) / Math.Pow(x, Pi)));
@@ -52,7 +51,6 @@ namespace lab3
             // Створюємо початкові дані для double-експериментів.
             double[] source = BuildDoubleArray(size);
 
-            // Для double бачимо більш "природну" поведінку дробових обчислень.
             MeasureAndPrint("double", size, "x = x / 10", source, x => x / 10.0);
             MeasureAndPrint("double", size, "x = x / pi", source, x => x / Pi);
             MeasureAndPrint("double", size, "x = e^x / x^pi", source, x => Math.Exp(x) / Math.Pow(x, Pi));
@@ -62,7 +60,6 @@ namespace lab3
         private static int[] BuildIntArray(int size)
         {
             int[] array = new int[size];
-            // Фіксоване зерно генератора робить експеримент відтворюваним.
             Random random = new Random(42 + size);
             for (int i = 0; i < array.Length; i++)
             {
@@ -75,7 +72,6 @@ namespace lab3
         private static double[] BuildDoubleArray(int size)
         {
             double[] array = new double[size];
-            // Фіксоване зерно генератора робить експеримент відтворюваним.
             Random random = new Random(84 + size);
             for (int i = 0; i < array.Length; i++)
             {
@@ -115,7 +111,6 @@ namespace lab3
             double[] source,
             Func<double, double> operation)
         {
-            // Клонуємо масив, щоб послідовний і паралельний тести працювали з однаковими даними.
             double[] sequentialData = (double[])source.Clone();
             double[] parallelData = (double[])source.Clone();
 
